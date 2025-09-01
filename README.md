@@ -29,7 +29,7 @@ A responsive resort booking website designed with clean UI and engaging features
 An advanced online food delivery system with a **voice-enabled AI assistant**.  
 **Features**: Restaurant browsing, AI-based dish recommendations, voice follow-up commands (e.g., *“Yes, add to cart”*), smooth ordering experience.  
 **Tech Stack**: HTML, CSS, JavaScript, AI Integration  
-🔗 [GitHub Repository](https://github.com/your-username/ai-food-ordering-website)  
+🔗 [GitHub Repository](https://github.com/Shobitha-N/AI-Powered-Food-Delivery-App)  
 
 ---
 
