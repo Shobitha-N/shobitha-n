@@ -43,8 +43,8 @@ An advanced online food delivery system with a **voice-enabled AI assistant**.
 ---
 
 ## 📬 Connect with Me  
-📧 Email: shobitha.n@gmail.com  
-💼 LinkedIn: [Shobitha N](www.linkedin.com/in/shobitha2003)  
+📧 Email: shobitha.learn@gmail.com   
+💼 LinkedIn: [Shobitha N](https://www.linkedin.com/in/shobitha2003)  
 🏗️ GitHub: [Shobitha N](https://github.com/Shobitha-N)  
 
 ---
