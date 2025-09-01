@@ -1,55 +1,42 @@
 # 👋 Hi, I'm Shobitha N  
 
 ## 📌 About Me  
-I’m a **Computer Applications graduate from Don Bosco College** with a strong interest in **Full-Stack Development, Data Analysis, and AI-powered applications**. Passionate about building real-world projects, problem-solving, and continuously learning new technologies. 🚀  
+I’m a **Computer Applications graduate from Don Bosco College** with a passion for **Full-Stack Development, Data Analysis, and AI-powered applications**.  
+I love building real-world projects that combine creativity and technology to make life simpler. 🚀  
 
 ---
 
 ## 🚀 Skills & Interests  
 💻 **Languages**: Python, C, C++, HTML, CSS, JavaScript  
-⚛️ **Frameworks & Libraries**: React, Bootstrap  
+⚛️ **Frameworks & Libraries**: React, Bootstrap, Tailwind CSS  
 🗄️ **Databases**: MySQL, SQLite  
 🛠️ **Tools**: Git/GitHub, VS Code, BrowserStack  
-🎯 **Interests**: Full-Stack Development, Data Analysis, AI Applications, Web & App Development  
+🎯 **Interests**: Web Development, Full-Stack Development, AI Applications, Data Analysis  
 
 ---
 
 ## 🏆 Projects  
 
-### 🍽️ ODO – Offer Discovery Platform  
-A web platform that displays free and discounted offers on clothes, books, courses, food, and more.  
-**Features**: Categories, User Login/Signup, AI Chatbot, Personalized Recommendations, Price-Drop Alerts.  
-**Tech Stack**: HTML, CSS, JavaScript, AI Integration  
+### 🌴 Envio Resort Website  
+A responsive resort booking website designed with clean UI and engaging features.  
+**Features**: Homepage with header & logo, About & Services, Light/Dark Mode, Signup/Login popup, Service details, Booking functionality.  
+**Tech Stack**: HTML, CSS, JavaScript  
 
 ---
 
-### 📚 Appli – Education App  
-A platform similar to CollegeDunia but more effective and without third-party users.  
-**Features**: College details, search, and user-friendly navigation.  
-**Tech Stack**: Web & Mobile Application  
-
----
-
-### 🚗 OCD Car Wash Website  
-A React-based website for booking car wash services.  
-**Features**: Loader, Homepage with Logo & Header, About & Services, Light/Dark Mode, Signup/Login Popups, Booking Functionality.  
-**Tech Stack**: React, Tailwind CSS  
-
----
-
-### 🍴 AI-Powered Food Delivery Website  
-An advanced food ordering system with a **voice-enabled AI assistant**.  
-**Features**: Restaurant browsing, AI-based dish suggestions, voice follow-up (e.g., *“Yes, add to cart”*).  
+### 🍴 AI-Powered Food Ordering Website  
+An advanced online food delivery system with a **voice-enabled AI assistant**.  
+**Features**: Restaurant browsing, AI-based dish recommendations, voice follow-up commands (e.g., *“Yes, add to cart”*), smooth ordering experience.  
 **Tech Stack**: HTML, CSS, JavaScript, AI Integration  
 
 ---
 
 ## 💼 Experience  
 - **Quality Analyst Intern – Appli (Appt Innovations Labs Pvt. Ltd.)**  
-  Tested web and mobile apps, including the admin dashboard for colleges, using BrowserStack.  
+  Tested mobile and web applications, including admin dashboards, using **BrowserStack**.  
 
 - **Virtual Internship – Citi**  
-  Gained exposure to corporate workflows and project structures.  
+  Learned about corporate workflows, data handling, and industry practices.  
 
 ---
 
@@ -60,4 +47,5 @@ An advanced food ordering system with a **voice-enabled AI assistant**.
 
 ---
 
-💡 *I’m always open to collaborations, opportunities, and feedback. Let’s connect and build something impactful!* 🚀
+💡 *Open to opportunities in Full-Stack Development and Data Analysis. Excited to collaborate and grow!* 🚀
+
