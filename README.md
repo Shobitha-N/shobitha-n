@@ -21,6 +21,7 @@ I love building real-world projects that combine creativity and technology to ma
 A responsive resort booking website designed with clean UI and engaging features.  
 **Features**: Homepage with header & logo, About & Services, Light/Dark Mode, Signup/Login popup, Service details, Booking functionality.  
 **Tech Stack**: HTML, CSS, JavaScript  
+🔗 [GitHub Repository](https://github.com/your-username/envio-resort-website)  
 
 ---
 
@@ -28,6 +29,7 @@ A responsive resort booking website designed with clean UI and engaging features
 An advanced online food delivery system with a **voice-enabled AI assistant**.  
 **Features**: Restaurant browsing, AI-based dish recommendations, voice follow-up commands (e.g., *“Yes, add to cart”*), smooth ordering experience.  
 **Tech Stack**: HTML, CSS, JavaScript, AI Integration  
+🔗 [GitHub Repository](https://github.com/your-username/ai-food-ordering-website)  
 
 ---
 
@@ -48,4 +50,3 @@ An advanced online food delivery system with a **voice-enabled AI assistant**.
 ---
 
 💡 *Open to opportunities in Full-Stack Development and Data Analysis. Excited to collaborate and grow!* 🚀
-
