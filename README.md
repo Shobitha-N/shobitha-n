@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shobitha N  
+# 👋 Hi, I'm Shobitha  
 
 ## 📌 About Me  
 I’m a **Computer Applications graduate from Don Bosco College** with a passion for **Full-Stack Development, Data Analysis, and AI-powered applications**.  
