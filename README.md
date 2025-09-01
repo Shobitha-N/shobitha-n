@@ -49,7 +49,9 @@ An advanced online food delivery system with a **voice-enabled AI assistant**.
 
 ---
 
-💡 Feedback Welcome!
+## 💡 Feedback Welcome!
 I'm still learning and growing as a developer, so I welcome constructive feedback and suggestions. Feel free to reach out on any platform above—let's connect! 🚀
+
+---
 
 💡 *Open to opportunities in Full-Stack Development and Data Analysis. Excited to collaborate and grow!* 🚀
