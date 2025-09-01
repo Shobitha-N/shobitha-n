@@ -21,7 +21,7 @@ I love building real-world projects that combine creativity and technology to ma
 A responsive resort booking website designed with clean UI and engaging features.  
 **Features**: Homepage with header & logo, About & Services, Light/Dark Mode, Signup/Login popup, Service details, Booking functionality.  
 **Tech Stack**: HTML, CSS, JavaScript  
-🔗 [GitHub Repository](https://github.com/your-username/envio-resort-website)  
+🔗 [GitHub Repository](https://github.com/Shobitha-N/Envio-Resort)  
 
 ---
 
